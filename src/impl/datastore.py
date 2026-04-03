@@ -4,11 +4,11 @@ from typing import List
 
 import lancedb
 import pyarrow as pa
-from dotenv import load_dotenv
 from lancedb.table import Table
 from openai import OpenAI
 
 from interface.base_datastore import BaseDatastore, DataItem
+from util.secrets_loader import get_secret_value
 
 
 class Datastore(BaseDatastore):
@@ -16,9 +16,8 @@ class Datastore(BaseDatastore):
     DB_TABLE_NAME = "bang-rag-table"
 
     def __init__(self):
-        load_dotenv()
         self.vector_dimensions = 1536
-        self.open_ai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self.open_ai_client = OpenAI(api_key=get_secret_value("OPENAI_API_KEY"))
         self.vector_db = lancedb.connect(self.DB_PATH)
         self.table: Table = self._get_table()
 

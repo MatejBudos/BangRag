@@ -92,6 +92,7 @@ OPENAI_API_KEY = "your-openai-api-key"
 
 - `APP_PASSWORD` protects the chatbot for normal users
 - `DEV_PASSWORD` unlocks developer mode
+- `OPENAI_API_KEY` is read from Streamlit secrets first and from environment variables as fallback
 - if `DEV_PASSWORD` is missing, developer mode is available without a second password
 - if `APP_PASSWORD` is missing, the app opens without a login gate
 
