@@ -4,3 +4,4 @@ data/
 venv/
 .DS_Store
 .env
+BangRules/

@@ -1,0 +1,65 @@
+\documentclass[14pt]{report}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{lipsum}   % For generating placeholder text
+\usepackage{array}
+\usepackage[a4paper, left=0.5in, right=0.5in, top=0.5in, bottom=0.6in]{geometry}
+\usepackage[font=footnotesize]{caption} 
+\usepackage{comment}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{titlesec}
+%zapnutie slovenskeho delenia slov
+%a automatickych nadpisov ako Obsah, Obrázok a pod. v slovencine
+\usepackage[slovak]{babel} % vypnite pre prace v 
+
+
+\titleformat{\chapter}[hang]
+  {\normalfont\huge\bfseries} % Formatting for the chapter title
+  {} % Removes "Chapter X"
+  {0pt} % Space between number and title (not needed here)
+  {\Huge} % Formatting for the actual title
+  
+\newcommand{\minipageSize}{0.24\linewidth} % Define the variable
+\newcommand{\minipageSizeFiver}{0.19\linewidth} % Define the variable
+\newcommand{\cardSize}{0.75} % Define the variable
+
+\title{Skripta}
+\author{bc. Matej Budoš\\ bc. Jakub Ivan}
+\date{August 2024}
+
+\begin{document}
+\pagenumbering{roman} % Use Roman numerals for front matter
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\listoffigures
+
+\newpage
+\pagenumbering{arabic} % Switch to Arabic numerals for main content
+\newgeometry{left=0.5in, right=0.5in, top=0in, bottom=0.6in}
+\input general_rules.tex
+\input vysvetlivky.tex
+\input hnede.tex
+\input modre.tex
+\input zelene.tex
+\input postavy.tex
+\input goldrush.tex
+\input dicegame.tex
+\input fistful.tex
+\input highnoon.tex
+\input wildwest.tex
+\newpage	
+
+
+\thispagestyle{empty}
+\clearpage
+
+\bibliographystyle{apalike}
+\bibliography{bibliography} 
+
+\input apendix.tex
+
+\end{document}

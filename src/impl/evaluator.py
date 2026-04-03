@@ -33,8 +33,6 @@ class Evaluator(BaseEvaluator):
 
         reasoning = extract_xml_tag(response_content, "reasoning")
         result = extract_xml_tag(response_content, "result")
-        print(response_content)
-
         if result is not None:
             is_correct = result.lower() == "true"
         else:

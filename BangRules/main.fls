@@ -1,0 +1,1433 @@
+PWD d:\Projects\BangRag\BangRules
+INPUT C:\Users\budos\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Projects\BangRag\BangRules\main.tex
+OUTPUT main.log
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ldf
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ldf
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ldf
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\sk\babel-slovak.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\sk\babel-slovak.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\sk\babel-slovak.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\sk\babel-sk.ini
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+OUTPUT main.pdf
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2074.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2074.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+OUTPUT main.toc
+INPUT .\main.lof
+INPUT .\main.lof
+INPUT main.lof
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+OUTPUT main.lof
+INPUT general_rules.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT vysvetlivky.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
+INPUT hnede.tex
+INPUT .\Hnede\01_bang.png
+INPUT .\Hnede\01_bang.png
+INPUT .\Hnede\01_bang.png
+INPUT .\Hnede\01_bang.png
+INPUT .\Hnede\01_bang.png
+INPUT .\Hnede\01_bang.png
+INPUT .\Hnede\01_bang.png
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0800.tfm
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_mancato.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_birra.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_catbalou.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_panico.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_saloon.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_duello.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_gatling.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_indiani.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_diligenza.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_wellsfargo.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\01_emporio.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_pugno.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_schivata.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rissa.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_rag_time.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_springfield.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_tequila.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\03_whisky.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_bandidos.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_tornado.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_fuga.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_mira.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_ritornodifiamma.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_salvo.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_sventagliata.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_tomahawk.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_poker.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\07_ultimogiro.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\33_TrainRobberyA.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\34_Cactus.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\35_Evaded.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\36_MostWanted.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\38_MoneyBag.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\37_KnifeRevolver.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\31_Switch.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\40_NextStopA.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\39_FullSteam.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT .\Hnede\32_WaterTower.png
+INPUT modre.tex
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_barile.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_dinamite.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\01_prigione.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\07_serpenteasonagli.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\01_volcanic.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_shotgun.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\07_lemat.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_schofield.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_remington.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_carabine.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\01_winchester.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\27_Dragoon.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\01_mustang.png
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Appaloosa.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\Silver.jpg
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\03_riparo.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\30_Refund.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\07_taglia.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\28_Strongbox.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\29_Map.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT .\Modre karty\07_fantasma.png
+INPUT zelene.tex
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_bibbia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_borraccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_fucile_da_caccia.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_cappello.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_conestoga.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_derringer.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_can_can.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_howitzer.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_pepperbox.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_placca_di_ferro.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pony_express.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_pugnale.png
+INPUT .\Zelene\03_sombrero.png
+INPUT .\Zelene\03_sombrero.png
+INPUT .\Zelene\03_sombrero.png
+INPUT .\Zelene\03_sombrero.png
+INPUT .\Zelene\03_sombrero.png
+INPUT .\Zelene\03_sombrero.png
+INPUT .\Zelene\03_sombrero.png
+INPUT postavy.tex
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_bartcassidy.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_blackjack.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_calamityjanet.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_elgringo.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jessejones.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_jourdonnais.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_kitcarlson.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_luckyduke.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_paulregret.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_pedroramirez.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_rosedoolan.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_sidketchum.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_slab.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_suzylafayette.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_vulturesam.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\01_willythekid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_apache_kid.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_belle_star.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_bill_noface.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_chuck_wengam.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_doc_holyday.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_elena_fuente.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_greg_digger.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_herb_hunter.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_jose_delgado.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_molly_stark.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pat_brennan.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_pixie_pete.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_sean_mallory.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_tequila_joe.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\03_vera_custer.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_madame_yto.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\04_don_bell.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_bigspencer.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_youlgrinner.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_greygorydeck.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_leevankliff.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_garylooter.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_terenkill.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_flintwestwood.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\06_johnpain.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_henryblock.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_coloradobill.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_mickdefender.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_lemonadejim.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\07_evelynshebang.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-johnny-kisch.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-ClausTheSaint.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\bonus-UncleWill.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\25_SgtBlaze.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\26_ZippyRoy.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\24_ShadeOConnor.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_dutch_will.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_jacky_murieta.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_josh_mccloud.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_pretty_luzena.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_raddie_snake.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\04_simeon_picos.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\19_BennyBrawler.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\20_EvanBabbit.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\21_JimmyTexas.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\22_Manuelita.png
+INPUT .\postavy\23_Sancho.png
+INPUT .\postavy\23_Sancho.png
+INPUT .\postavy\23_Sancho.png
+INPUT .\postavy\23_Sancho.png
+INPUT .\postavy\23_Sancho.png
+INPUT .\postavy\23_Sancho.png
+INPUT .\postavy\23_Sancho.png
+INPUT goldrush.tex
+INPUT dicegame.tex
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT fistful.tex
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_agguato.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_perunpugnodicarte.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_ranch.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_fratellidisangue.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_ilgiudice.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_lazo.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_leggedelwest.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_liquoreforte.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_minieraabbandonata.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_cecchino.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_peyote.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_deadman.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rimbalzo.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_rouletterussa.png
+INPUT .\fistful\05_vendetta.png
+INPUT .\fistful\05_vendetta.png
+INPUT .\fistful\05_vendetta.png
+INPUT .\fistful\05_vendetta.png
+INPUT .\fistful\05_vendetta.png
+INPUT .\fistful\05_vendetta.png
+INPUT .\fistful\05_vendetta.png
+INPUT highnoon.tex
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_benedizione.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_cittafantasma.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_corsaalloro.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_idalton.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ildottore.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_ilreverendo.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_iltreno.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_maledizione.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_mezzogiornodifuoco.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sbornia.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sermone.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sete.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\05_sparatoria.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-Manette.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT .\highnoon\bonus-NuovaIdentita.png
+INPUT wildwest.tex
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_bavaglio.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_camposanto.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_darlingvalentine.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_dorothyrage.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_helenazontero.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_ladyrosadeltexas.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_misssusanna.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_regolamentodiconti.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_sacagaway.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\wildwest\06_wildwestshow.png
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
+INPUT apendix.tex
+INPUT .\images\preambula1.png
+INPUT .\images\preambula1.png
+INPUT .\images\preambula1.png
+INPUT .\images\preambula1.png
+INPUT .\images\preambula1.png
+INPUT .\images\preambula1.png
+INPUT .\images\preambula1.png
+INPUT .\images\preambula2.png
+INPUT .\images\preambula2.png
+INPUT .\images\preambula2.png
+INPUT .\images\preambula2.png
+INPUT .\images\preambula2.png
+INPUT .\images\preambula2.png
+INPUT .\images\preambula2.png
+INPUT main.aux
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
+INPUT C:\Users\budos\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\budos\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb

@@ -1,5 +1,8 @@
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
+from datetime import datetime
+import json
+from pathlib import Path
 from typing import Dict, List, Optional
 from interface import (
     BaseDatastore,
@@ -20,6 +23,7 @@ class RAGPipeline:
     retriever: BaseRetriever
     response_generator: BaseResponseGenerator
     evaluator: Optional[BaseEvaluator] = None
+    EVAL_LOG_DIR = Path("logs")
 
     def reset(self) -> None:
         """Reset the datastore."""
@@ -33,11 +37,6 @@ class RAGPipeline:
 
     def process_query(self, query: str) -> str:
         search_results = self.retriever.search(query)
-        print(f"✅ Found {len(search_results)} results for query: {query}\n")
-
-        for i, result in enumerate(search_results):
-            print(f"🔍 Result {i+1}: {result}\n")
-
         response = self.response_generator.generate_response(query, search_results)
         return response
 
@@ -57,16 +56,15 @@ class RAGPipeline:
                 )
             )
 
+        log_path = self._write_evaluation_log(results)
+
         for i, result in enumerate(results):
-            result_emoji = "✅" if result.is_correct else "❌"
-            print(f"{result_emoji} Q {i+1}: {result.question}: \n")
-            print(f"Response: {result.response}\n")
-            print(f"Expected Answer: {result.expected_answer}\n")
-            print(f"Reasoning: {result.reasoning}\n")
-            print("--------------------------------")
+            result_label = "OK" if result.is_correct else "FAIL"
+            print(f"Q{i+1}: {result_label}")
 
         number_correct = sum(result.is_correct for result in results)
-        print(f"✨ Total Score: {number_correct}/{len(results)}")
+        print(f"Total Score: {number_correct}/{len(results)}")
+        print(f"Evaluation Log: {log_path}")
         return results
 
     def _evaluate_single_question(
@@ -75,3 +73,30 @@ class RAGPipeline:
         # Evaluate a single question/answer pair.
         response = self.process_query(question)
         return self.evaluator.evaluate(question, response, expected_answer)
+
+    def _write_evaluation_log(self, results: List[EvaluationResult]) -> str:
+        self.EVAL_LOG_DIR.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+        log_path = self.EVAL_LOG_DIR / f"evaluation-{timestamp}.json"
+
+        payload = {
+            "created_at": datetime.now().isoformat(),
+            "total_questions": len(results),
+            "correct_answers": sum(result.is_correct for result in results),
+            "results": [
+                {
+                    "question": result.question,
+                    "response": result.response,
+                    "expected_answer": result.expected_answer,
+                    "is_correct": result.is_correct,
+                    "reasoning": result.reasoning,
+                }
+                for result in results
+            ],
+        }
+
+        log_path.write_text(
+            json.dumps(payload, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        return str(log_path)
