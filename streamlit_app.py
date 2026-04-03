@@ -36,6 +36,8 @@ def ensure_index(pipeline) -> int:
 
 def reindex_rules(pipeline) -> int:
     document_paths = get_files_in_directory(DEFAULT_SOURCE_PATH)
+    if not document_paths:
+        return 0
     pipeline.reset()
     pipeline.add_documents(document_paths)
     return pipeline.datastore.table.count_rows()
@@ -143,11 +145,22 @@ with st.sidebar:
 
             current_rows = ensure_index(pipeline)
             st.write(f"Indexovane chunky: `{current_rows}`")
+            source_paths = get_files_in_directory(DEFAULT_SOURCE_PATH)
+            st.write(f"Najdene source subory: `{len(source_paths)}`")
+            if not source_paths:
+                st.warning(
+                    "V deployi sa nenasli ziadne .tex subory v BangRules/. Skontroluj, ci je BangRules/ naozaj v repozitari a dostal sa do deploya."
+                )
 
             if st.button("Reset a znovu naindexovat pravidla", use_container_width=True):
                 with st.spinner("Indexujem Bang pravidla..."):
                     current_rows = reindex_rules(pipeline)
-                st.success(f"Hotovo. Indexovanych chunkov: {current_rows}")
+                if current_rows == 0:
+                    st.error(
+                        "Reindex neprebehol, lebo sa nenasli ziadne zdrojove pravidla alebo sa z nich nic nevyparsovalo."
+                    )
+                else:
+                    st.success(f"Hotovo. Indexovanych chunkov: {current_rows}")
 
             st.markdown(
                 "Spustenie:\n```powershell\nstreamlit run streamlit_app.py\n```"
@@ -181,7 +194,7 @@ with chat_tab:
                 chunk_count = ensure_index(pipeline)
                 if chunk_count == 0:
                     answer = (
-                        "Databaza pravidiel je prazdna. V developer mode pouzi reset a znovu naindexovanie pravidiel."
+                        "Databaza pravidiel je prazdna. V developer mode skontroluj, ci deploy obsahuje BangRules/ a potom spusti reset a znovu naindexovanie pravidiel."
                     )
                 else:
                     chunks = pipeline.retriever.search(question)

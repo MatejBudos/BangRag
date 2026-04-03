@@ -4,12 +4,13 @@ from datetime import datetime
 import json
 from pathlib import Path
 from typing import Dict, List, Optional
+
 from interface import (
     BaseDatastore,
-    BaseIndexer,
-    BaseRetriever,
-    BaseResponseGenerator,
     BaseEvaluator,
+    BaseIndexer,
+    BaseResponseGenerator,
+    BaseRetriever,
     EvaluationResult,
 )
 
@@ -31,9 +32,17 @@ class RAGPipeline:
 
     def add_documents(self, documents: List[str]) -> None:
         """Index a list of documents."""
+        if not documents:
+            print("No source documents found. Skipping indexing.")
+            return
+
         items = self.indexer.index(documents)
+        if not items:
+            print("No indexable items were extracted from the provided documents.")
+            return
+
         self.datastore.add_items(items)
-        print(f"✅ Added {len(items)} items to the datastore.")
+        print(f"Added {len(items)} items to the datastore.")
 
     def process_query(self, query: str) -> str:
         search_results = self.retriever.search(query)
@@ -43,7 +52,6 @@ class RAGPipeline:
     def evaluate(
         self, sample_questions: List[Dict[str, str]]
     ) -> List[EvaluationResult]:
-        # Evaluate a list of question/answer pairs.
         questions = [item["question"] for item in sample_questions]
         expected_answers = [item["answer"] for item in sample_questions]
 
@@ -70,7 +78,6 @@ class RAGPipeline:
     def _evaluate_single_question(
         self, question: str, expected_answer: str
     ) -> EvaluationResult:
-        # Evaluate a single question/answer pair.
         response = self.process_query(question)
         return self.evaluator.evaluate(question, response, expected_answer)
 
