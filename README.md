@@ -74,13 +74,19 @@ Ask a question:
 python main.py query "Ako funguje karta Pivo pri poslednych dvoch hracoch?"
 ```
 
+Rebuild the LanceDB locally from Bang rules:
+
+```bash
+python reindex_db.py
+```
+
 Run the Streamlit chat UI:
 
 ```bash
 streamlit run streamlit_app.py
 ```
 
-The app uses the existing index as-is. Reindexing is available only from developer mode.
+The app uses the existing LanceDB index as-is. It does not reindex rules inside the deployed app. Rebuild the database locally with `python reindex_db.py` and then push `data/bang-lancedb`.
 
 For deployment, you can protect the app with passwords through Streamlit secrets or environment variables:
 

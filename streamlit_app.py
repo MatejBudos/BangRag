@@ -5,7 +5,7 @@ from pathlib import Path
 import streamlit as st
 from streamlit.errors import StreamlitSecretNotFoundError
 
-from main import DEFAULT_SOURCE_PATH, create_pipeline, get_files_in_directory
+from main import create_pipeline
 
 
 LOG_DIR = Path("logs")
@@ -32,15 +32,6 @@ def ensure_index(pipeline) -> int:
         return pipeline.datastore.table.count_rows()
     except Exception:
         return 0
-
-
-def reindex_rules(pipeline) -> int:
-    document_paths = get_files_in_directory(DEFAULT_SOURCE_PATH)
-    if not document_paths:
-        return 0
-    pipeline.reset()
-    pipeline.add_documents(document_paths)
-    return pipeline.datastore.table.count_rows()
 
 
 def list_log_files() -> list[Path]:
@@ -133,41 +124,17 @@ if "messages" not in st.session_state:
 
 
 st.title("Bang! RAG")
-st.caption("Chat nad lokalnou Bang RAG pipeline")
+st.caption("Chat nad pripravenou Bang RAG databazou")
 
 with st.sidebar:
     developer_mode = False
     if render_developer_access():
         developer_mode = st.toggle("Developer Mode", value=False)
-
         if developer_mode:
-            st.subheader("Databaza pravidiel")
-
             current_rows = ensure_index(pipeline)
+            st.subheader("Databaza pravidiel")
             st.write(f"Indexovane chunky: `{current_rows}`")
-            source_paths = get_files_in_directory(DEFAULT_SOURCE_PATH)
-            st.write(f"Najdene source subory: `{len(source_paths)}`")
-            if not source_paths:
-                st.warning(
-                    "V deployi sa nenasli ziadne .tex subory v BangRules/. Skontroluj, ci je BangRules/ naozaj v repozitari a dostal sa do deploya."
-                )
-
-            if st.button("Reset a znovu naindexovat pravidla", use_container_width=True):
-                with st.spinner("Indexujem Bang pravidla..."):
-                    current_rows = reindex_rules(pipeline)
-                if current_rows == 0:
-                    st.error(
-                        "Reindex neprebehol, lebo sa nenasli ziadne zdrojove pravidla alebo sa z nich nic nevyparsovalo."
-                    )
-                else:
-                    st.success(f"Hotovo. Indexovanych chunkov: {current_rows}")
-
-            st.markdown(
-                "Spustenie:\n```powershell\nstreamlit run streamlit_app.py\n```"
-            )
-            st.caption(
-                "Existujuci index sa pouzije tak, ako je. Reindex prebehne iba po stlaceni tlacidla vyssie."
-            )
+            st.caption("Reindex sa v deploy appke nevykonava. Pouzi osobitny lokalny skript a pushni hotovu databazu.")
 
 
 if developer_mode:
@@ -194,7 +161,7 @@ with chat_tab:
                 chunk_count = ensure_index(pipeline)
                 if chunk_count == 0:
                     answer = (
-                        "Databaza pravidiel je prazdna. V developer mode skontroluj, ci deploy obsahuje BangRules/ a potom spusti reset a znovu naindexovanie pravidiel."
+                        "Databaza pravidiel je prazdna alebo v deployi chyba hotova LanceDB. Najprv lokalne spusti reindex skript a pushni data/bang-lancedb."
                     )
                 else:
                     chunks = pipeline.retriever.search(question)
